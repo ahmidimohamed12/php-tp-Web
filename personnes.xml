@@ -1,0 +1,26 @@
+<personnes>
+ 	<personne>
+		<nom>hassnaoui</nom>
+		<prenom>adil</prenom>
+		<age>34</age>
+		<telephone>03774646645</telephone>
+	</personne>
+	<personne>
+        	<nom>ahmidi</nom>
+        	<prenom>mohamed</prenom>
+		<age>22</age>
+		<telephone>038387474747</telephone>
+    	</personne>
+    	<personne>
+        	<nom>karimi</nom>
+        	<prenom>salma</prenom>
+		<age>29</age>
+		<telephone>087374434</telephone>
+	</personne>
+	<personne>
+		<nom>mohssin</nom>
+		<prenom>khaliki</prenom>
+		<age>25</age>
+		<telephone>04747736633</telephone>
+	</personne>
+</personnes>

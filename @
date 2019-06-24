@@ -1,0 +1,29 @@
+<?php
+
+
+
+
+	function Summe($n1,$n2)
+	{
+		return	n1 + n2;
+	}
+	function Multip($n1,$n2)
+	{
+		return	n1 * n2;
+	}
+	function sust($n1,$n2)
+	{
+		return	n1 - n2;
+	}
+	function divis($n1,$n2)
+	{
+		return	n1 / n2;
+	}
+
+	function hello()
+	{
+		print "HELLO WORLD";
+	}
+
+
+?>

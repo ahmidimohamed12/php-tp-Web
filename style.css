@@ -1,0 +1,49 @@
+body,
+#h {
+    font-weight: bold;
+}
+
+button {
+    font-size: 15px;
+    font-weight: initial;
+}
+
+.lb {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+}
+#txtnm {
+    width: 200px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#txtpr {
+    font-weight: bold;
+    width: 200px;
+    font-size: 12px;
+}
+#txtnm {
+    font-weight: bold;
+    width: 200px;
+    font-size: 12px;
+}
+form {
+    margin-top: 90px;
+}
+#btnadd {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+#txtid {
+    font-weight: bold;
+    width: 200px;
+    font-size: 12px;
+}
+.cc{
+	color:Red;
+	font-weight:bold;
+}
+
